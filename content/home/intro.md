@@ -6,7 +6,7 @@ cta:
 widget_id: test
 headless: true
 weight: 1
-title: "LET'S GET  MOVING{style=\"color: white; font-size: 5rem; text-shadow: 0
+title: "LET'S GET  MOVING {style=\"color: white; font-size: 5rem; text-shadow: 0
   0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;\"}"
 cta_alt:
   url: "#services"
