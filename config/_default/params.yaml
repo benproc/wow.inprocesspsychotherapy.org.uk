@@ -6,7 +6,7 @@
 
 # Appearance
 
-theme: Inproc_custom
+theme: minimal
 day_night: false
 font: minimal
 font_size: L
